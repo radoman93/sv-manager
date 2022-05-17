@@ -23,3 +23,4 @@ maximum_local_snapshot_age: 3000
 solana_version: 1.9.18
 extra_params:
   - '--incremental-snapshot-interval-slots 200'
+  - '--no-voting'
